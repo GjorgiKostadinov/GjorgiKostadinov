@@ -57,11 +57,3 @@
 <img src="https://raw.githubusercontent.com/GjorgiKostadinov/GjorgiKostadinov/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/if42rsihyrxs0ez23cjyzr4kh">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=if42rsihyrxs0ez23cjyzr4kh&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
